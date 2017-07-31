@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/num1"
+
+        android:title="1단계"/>
+    <item
+        android:id="@+id/num2"
+
+        android:title="2단계"/>
+    <item
+        android:id="@+id/num3"
+
+        android:title="3단계"/>
+    <item
+        android:id="@+id/num4"
+
+        android:title="4단계"/>
+    <item
+        android:id="@+id/num5"
+
+        android:title="5단계">
+    </item>
+</menu>
